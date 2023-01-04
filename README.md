@@ -1,4 +1,4 @@
-# Code for *Nonlinear conjugate gradient methods: worst-case convergence rates and computer-assisted analyses*
+# Code for *Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses*
 
 <p align="center">
   <a href="#Usage">Usage</a> •
@@ -13,7 +13,7 @@
 ## Usage
 The code in this repository can be used to reproduce and verify the results from the work:
 
-> Nonlinear conjugate gradient methods: worst-case convergence rates and computer-assisted analyses
+> Shuvomoy Das Gupta, Robert M. Freund, Xu Andy Sun, Adrien Taylor, "Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses"
 
 The repository contains three folders  `Code_for_Pseudogradient_Gradient_Ratio`,  `Code_for_NCG_PEP`, and `Symbolic_Verifications`. The usage of the files in these folders is  as follows.
 
