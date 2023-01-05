@@ -15,9 +15,9 @@ The code in this repository can be used to reproduce and verify the results from
 
 > Shuvomoy Das Gupta, Robert M. Freund, Xu Andy Sun, Adrien Taylor, "Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses" [[arXiv link](https://arxiv.org/pdf/2301.01530.pdf)]
 
-The repository contains three folders  `Code_for_Pseudogradient_Gradient_Ratio`,  `Code_for_NCG_PEP`, and `Symbolic_Verifications`. 
+The repository contains three folders:  `Code_for_Pseudogradient_Gradient_Ratio`,  `Code_for_NCG_PEP`, and `Symbolic_Verifications`. 
 
-**Quick summary of the folders.** If you are interested in verifying or reproducing the numerical results in the paper, then only  `2. Using_the_saved_datasets_Julia.ipynb` and ``3. PEPIt_verification_Python.ipynb` in the folders   `Code_for_Pseudogradient_Gradient_Ratio` and  `Code_for_NCG_PEP` will suffice. For verifying the symbolic calculations, the files  `Verify_PRP.ipynb` and `Verify_FR.ipynb` in the folder `Symbolic_Verifications` will suffice. Please see the <a href="#Language and solver installation">Language and solver installation</a> section for how to install the necessary solvers and languages. 
+**Quick summary of the folders.** If you are interested in verifying or reproducing the numerical results in the paper, then only  `2. Using_the_saved_datasets_Julia.ipynb` and `3. PEPIt_verification_Python.ipynb` in the folders   `Code_for_Pseudogradient_Gradient_Ratio` and  `Code_for_NCG_PEP` will suffice. For verifying the symbolic calculations, the files  `Verify_PRP.ipynb` and `Verify_FR.ipynb` in the folder `Symbolic_Verifications` will suffice. Please see the <a href="#Language and solver installation">Language and solver installation</a> section for how to install the necessary solvers and languages. 
 
 The detailed usage of the files in the aforementioned  folders is as follows.
 
