@@ -17,7 +17,7 @@ The code in this repository can be used to reproduce and verify the results from
 
 The repository contains three folders:  `Code_for_Pseudogradient_Gradient_Ratio`,  `Code_for_NCG_PEP`, and `Symbolic_Verifications`. 
 
-**Quick summary of the folders.** If you are interested in verifying or reproducing the numerical results in the paper, then only  `2. Using_the_saved_datasets_Julia.ipynb` and `3. PEPIt_verification_Python.ipynb` in the folders   `Code_for_Pseudogradient_Gradient_Ratio` and  `Code_for_NCG_PEP` will suffice. For verifying the symbolic calculations, the files  `Verify_PRP.ipynb` and `Verify_FR.ipynb` in the folder `Symbolic_Verifications` will suffice. Please see the <a href="#Language and solver installation">Language and solver installation</a> section for how to install the necessary solvers and languages. 
+**Quick summary of the folders.** If you are interested in verifying or reproducing the numerical results in the paper, then only  `2. Using_the_saved_datasets_Julia.ipynb` and `3. PEPIt_verification_Python.ipynb` in the folders   `Code_for_Pseudogradient_Gradient_Ratio` and  `Code_for_NCG_PEP` will suffice. For verifying the symbolic calculations, the files  `Verify_PRP.ipynb` and `Verify_FR.ipynb` in the folder `Symbolic_Verifications` will suffice. Please see the [Language and solver installation](#custom_anchor_name) section below for how to install the necessary solvers and languages. 
 
 The detailed usage of the files in the aforementioned  folders is as follows.
 
@@ -54,6 +54,7 @@ The following files written in Python can be used to verify the symbolic computa
 
 * *`Verify_FR_Wolfram_Language.ipynb` This Jupyter notebook is written in the Wolfram language and is used to verify the algebra for establishing the  worst-case bound for FR (Section 2.2.2 of the paper).*
 
+<a name="custom_anchor_name"></a>
 ## Language and solver installation
 
 Installation instructions for different languages and solvers can be found in the links below. 
