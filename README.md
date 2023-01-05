@@ -11,7 +11,7 @@
 
 The code in this repository can be used to reproduce and verify the results from the work:
 
-> Shuvomoy Das Gupta, Robert M. Freund, Xu Andy Sun, Adrien Taylor, "Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses" [[arXiv link](https://arxiv.org/pdf/2301.01530.pdf)]
+> Shuvomoy Das Gupta, Robert M. Freund, Xu Andy Sun, Adrien B. Taylor, "Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses" [[arXiv link](https://arxiv.org/pdf/2301.01530.pdf)]
 
 ## Usage
 
