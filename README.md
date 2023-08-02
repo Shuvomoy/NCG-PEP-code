@@ -46,7 +46,7 @@ This folder contains the following contents.
 The following files written in Python can be used to verify the symbolic computations.
 
 * `Verify_PRP.ipynb` This Jupyter notebook is written in Python using the [`Sympy`](https://www.sympy.org/en/index.html)  package and is used to verify the algebra for establishing the  worst-case bound for PRP (Section 2.2.1 of the paper).
-* `Verify_FR.ipynb` This Jupyter notebook is written in Python using the [`Sympy`](https://www.sympy.org/en/index.html)  package and is used to verify the algebra for establishing the  worst-case bound for PRP (Section 2.2.1 of the paper).
+* `Verify_FR.ipynb` This Jupyter notebook is written in Python using the [`Sympy`](https://www.sympy.org/en/index.html)  package and is used to verify the algebra for establishing the  worst-case bound for FR (Section 2.2.2 of the paper).
 
 *Alternatively, the following files written in the [Wolfram language](https://nicoguaro.github.io/posts/wolfram_jupyter/) can be used to verify the symbolic computations as well.* 
 
