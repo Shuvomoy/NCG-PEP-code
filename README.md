@@ -11,7 +11,9 @@
 
 The code in this repository can be used to reproduce and verify the results from the work:
 
-> Shuvomoy Das Gupta, Robert M. Freund, Xu Andy Sun, Adrien B. Taylor, "Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses" [[arXiv link](https://arxiv.org/pdf/2301.01530.pdf)]
+> [Shuvomoy Das Gupta, Robert M. Freund, Xu Andy Sun, Adrien B. Taylor, "Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses", Mathematical Programming, 2024.](https://link.springer.com/article/10.1007/s10107-024-02127-7) 
+
+A preprint of the work is available on arXiv [here](https://arxiv.org/pdf/2301.01530.pdf).
 
 ## Usage
 
@@ -99,15 +101,16 @@ For platform specific instructions for these solvers, please see https://github.
 If you find the paper useful, we request you to cite the following paper.
 
 ```
-@article{NCGPEP2023,
-  title = {Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses},
-  author = {Das Gupta, Shuvomoy and Freund, Robert M. and Sun, Xu Andy and Taylor, Adrien B.},
-  year = {2023},
-  journal = {arXiv preprint arXiv:2301.01530},
-  abbr = {preprint},
-  code = {https://github.com/Shuvomoy/NCG-PEP-code},
-  arxiv = {2301.01530},
-  bibtex_show = {true},
+@article{dasgupta2024NCGPEP,
+author={Das Gupta, Shuvomoy and Freund, Robert M. and Sun, Xu Andy and Taylor, Adrien},
+title={Nonlinear conjugate gradient methods: worst-case convergence rates via computer-assisted analyses},
+journal={Mathematical Programming},
+year={2024},
+month={Aug},
+day={22},
+issn={1436-4646},
+doi={10.1007/s10107-024-02127-7},
+url={https://doi.org/10.1007/s10107-024-02127-7}
 }
 ```
 
